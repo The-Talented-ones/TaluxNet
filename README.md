@@ -1,2 +1,2 @@
-# TaluxNet
-a movie app
+# MovieApp
+Movies
